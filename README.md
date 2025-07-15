@@ -9,3 +9,7 @@ Libraries used in the project are
 - matplotlib
 - NLTK : Tokenization, stopwords, stemming
 - spaCy : POS tagging, NER, dependency parsing
+- re (Regular expression)
+- wordcloud
+- PIL
+- sklearn
